@@ -1,0 +1,62 @@
+id,nome do curso,tipo,turno,preço cheio,preço com desconto,vagas,"isenção (colocar ""t"" ou ""f"") ","bolsa exclusiva? (colocar ""t"" ou ""f"")",peridiocidade,max_periods,university_id,campus_id,enabled,enabled_for_seo,nível,nome da universidade,nome do campus
+,Pós Graduação em Psicopedagogia Institucional,EAD,Outro,199.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Pós Graduação em Gestão Escolar e Políticas Educacionais,EAD,Outro,199.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Pós Graduação em Gestão da Educação e Politicas Públicas Educacionais,EAD,Outro,199.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Pós Graduação em Docencia Para o Ensino Superior,EAD,Outro,250.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Mba em Planejamento Estratégico e Análise de Negócios,EAD,Outro,319.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Mba em Gestão De Projetos,EAD,Outro,319.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Mba em Gestão e Desenvolvimento de Pessoas e Talentos,EAD,Outro,319.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Mba em Gestão Financeira e Controladoria,EAD,Outro,319.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Mba em Logística,EAD,Outro,319.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Mba Executivo em Processos Gerenciais,EAD,Outro,319.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Mba em Engenharia De Produção e Gestão da Qualidade,EAD,Outro,319.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,Pós Graduação em Educação Especial e Inclusiva,EAD,Outro,199.00,50%,x,F,F,Semestre,2,,,,,Pós-graduação,FACEAR,FACEAR CURITIBA
+,,,,,,,,,,,,,,,,,
+,,  TIPOS = [,  TURNOS = [,,,,,,  PERIODOS = {,,,,,,NÍVEIS = [,,
+,,"    'EaD',","    'Madrugada',",,,,,,"    'dia',",,,,,,"    'Bacharelado',",,
+,,"    'EaD Mais',","    'Manhã Madrugada',",,,,,,"    'modulo',",,,,,,"    'Curso Livre',",,
+,,"    'Presencial',","    'Manhã',",,,,,,"    'semanal',",,,,,,"    'Doutorado',",,
+,,"    'Semipresencial',","    'Tarde',",,,,,,"    'quinzenal',",,,,,,"    'Curta Duração',",,
+,,    'Flex',"    'Noite',",,,,,,"    'mes',",,,,,,"    'Ensino Fundamental',",,
+,,  ],"    'Noite - 17h50 às 20h20',",,,,,,"    'trimestre',",,,,,,"    'Ensino Infantil',",,
+,,,"    'Noite - 20h30 às 23h',",,,,,,"    'quadrimestre',",,,,,,"    'Ensino Médio',",,
+,,,"    'Noite Madrugada',",,,,,,"    'semestre',",,,,,,"    'Extensão',",,
+,,,"    'Integral',",,,,,,    'ano',,,,,,"    'Graduação',",,
+,,,"    'Manhã/Tarde',",,,,,,  },,,,,,"    'Graduação Tecnológica',",,
+,,,"    'Tarde/Noite',",,,,,,,,,,,,"    'Graduação Profissional',",,
+,,,"    'Sábado',",,,,,,,,,,,,"    'Lato-sensu',",,
+,,,"    'Outro',",,,,,,,,,,,,"    'Licenciatura',",,
+,,,    'Virtual',,,,,,,,,,,,"    'Longa Duração',",,
+,,,  ],,,,,,,,,,,,"    'Bacharelado + Licenciatura',",,
+,,,,,,,,,,,,,,,"    'Licenciatura em Língua Portuguesa',",,
+,,,,,,,,,,,,,,,"    'Licenciatura em Língua Inglesa',",,
+,,,,,,,,,,,,,,,"    'Licenciatura em Língua Espanhola',",,
+,,,,,,,,,,,,,,,"    'Licenciatura em Português e Inglês',",,
+,,,,,,,,,,,,,,,"    'Licenciatura em Português e Espanhol',",,
+,,,,,,,,,,,,,,,"    'Média Duração',",,
+,,,,,,,,,,,,,,,"    'Mestrado',",,
+,,,,,,,,,,,,,,,"    'Nivel Médio',",,
+,,,,,,,,,,,,,,,"    'Nivel Superior',",,
+,,,,,,,,,,,,,,,"    'Pré-vestibular',",,
+,,,,,,,,,,,,,,,"    'Profissionalizante',",,
+,,,,,,,,,,,,,,,"    'Pós-graduação',",,
+,,,,,,,,,,,,,,,"    'Sequencial de Formação Específica',",,
+,,,,,,,,,,,,,,,"    'Sequencial',",,
+,,,,,,,,,,,,,,,"    'Superior Tecnológico',",,
+,,,,,,,,,,,,,,,"    'Superior Tradicional',",,
+,,,,,,,,,,,,,,,"    'Superior de Curta Duração',",,
+,,,,,,,,,,,,,,,"    'Tecnológico',",,
+,,,,,,,,,,,,,,,"    'Tecnólogo',",,
+,,,,,,,,,,,,,,,    'Técnico',,
+,,,,,,,,,,,,,,,  ],,
+,,,,,,,,,,,,,,,​,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
