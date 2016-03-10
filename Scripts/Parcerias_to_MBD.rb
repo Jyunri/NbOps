@@ -19,10 +19,18 @@ def pathName
     for i in lastSlash+1...ARGV[0].length
         mbdName << ARGV[0][i]
     end
-    pathname = path + mbdName + " - MBD"
+    mbdName.slice!('.csv')  #retira o .csv do nome
+    pathname = path + mbdName + " - MBD.csv"
 end
 
 par = CSV.read(ARGV[0],headers:true)
+
+def getOfferedPrice(total,discount)
+        if discount.include?'%';    discount = (discount.to_f)/100
+        elsif discount.to_f > 1;    return discount     #se desconto for maior que 1, provavelmente sera o preco ja com desconto
+        end         
+        return total*(1-discount)  
+end
 
 
 #Verificando se a existe bolsa => colocar as colunas extras
@@ -38,7 +46,7 @@ par.each do |par|
         mbdLine['kind'] = par['tipo'].strip
         mbdLine['shift'] = par['turno'].strip
         mbdLine['full_price'] = par['preço cheio']
-        mbdLine['offered_price'] = par['preço com desconto']
+        mbdLine['offered_price'] = getOfferedPrice(par['preço cheio'],par['preço com desconto'])
         mbdLine['exemption'] = par['isenção (colocar "t" ou "f") '].upcase==('T'||'t')?'TRUE':'FALSE'
         mbdLine['total_seats'] = par['vagas']
         mbdLine['visible_seats'] = 0
