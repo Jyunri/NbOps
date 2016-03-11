@@ -27,12 +27,12 @@ end
 def getOfferedPrice(total,discount)
         if discount.include?'%';    discount = (discount.to_f)/100
         elsif discount.to_f > 1;    return discount     #se desconto for maior que 1, provavelmente sera o preco ja com desconto
-        end         
-        return total*(1-discount)  
+        end
+        return total*(1-discount)
 end
 
 ARGV[1] = ARGV[0]+'.csv'
-load './excel2csv/src/excel2csv.rb'
+load './excel2csv.rb'
 
 par = CSV.read(ARGV[1],headers:true)
 
@@ -55,7 +55,7 @@ par.each do |par|
         mbdLine['total_seats'] = par['vagas']
         mbdLine['visible_seats'] = 0
         mbdLine['exclusive'] = par['bolsa exclusiva? (colocar "t" ou "f")'].upcase==('T'||'t')?'TRUE':'FALSE'
-        mbdLine['exclusivity_revision'] = nil 
+        mbdLine['exclusivity_revision'] = nil
         mbdLine['period_kind'] = par['peridiocidade'].downcase.strip
         mbdLine['max_periods'] = par['max_periods']
         mbdLine['university_id'] = par['nome da universidade']
@@ -63,7 +63,7 @@ par.each do |par|
         mbdLine['enabled'] = 'TRUE'
         mbdLine['enabled_for_seo'] = 'TRUE'
         mbdLine['level'] = par['nível'].strip
-        hashArray << mbdLine 
+        hashArray << mbdLine
     end
 end
 
