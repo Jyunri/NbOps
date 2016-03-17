@@ -31,10 +31,16 @@ def getOfferedPrice(total,discount)
         return total*(1-discount)
 end
 
-ARGV[1] = ARGV[0]+'.csv'
-load './excel2csv.rb'
+rawName = ARGV[0].dup
+rawName.slice!('.xlsx')
+ARGV[1] = rawName+'.csv'
+load '../excel2csv.rb'
+csv = ARGV[1].dup
+par = CSV.read(csv,headers:true)
+par.each do |r| p "oi" end
 
-par = CSV.read(ARGV[1],headers:true)
+if(par.empty?);p "csv invalido"; exit; end
+
 
 
 #Verificando se a existe bolsa => colocar as colunas extras

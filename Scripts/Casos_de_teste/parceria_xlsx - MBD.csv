@@ -1,0 +1,7 @@
+id,name,kind,shift,full_price,offered_price,exclusive,period_kind,max_periods,university_id,campus_id,enabled,enabled_for_seo,level
+,"MBA Corporativo em formação avançada de consultores e executivos em gestão financeira, auditoria e controladoria.",Presencial,Outro,440,259,FALSE,semestre,3,Estratego,Unidade Belém,TRUE,TRUE,Pós-graduação
+,MBA Corporativo em formação avançada de consultores e executivos em gestão empresarial.,Presencial,Outro,440,249,FALSE,semestre,3,Estratego,Unidade Belém,TRUE,TRUE,Pós-graduação
+,MBA Corporativo em formação avançada de consultores e executivos em gestão de pessoas.,Presencial,Outro,440,259,FALSE,semestre,3,Estratego,Unidade Belém,TRUE,TRUE,Pós-graduação
+,MBA Corporativo em formação avançada de consultores e executivos  em coaching e gestão estratégica de pessoas.,Presencial,Outro,740,449,FALSE,semestre,3,Estratego,Unidade Belém,TRUE,TRUE,Pós-graduação
+,MBA Corporativo em formação avançada de consultores e executivos logística e produção.,Presencial,Outro,440,249,FALSE,semestre,3,Estratego,Unidade Belém,TRUE,TRUE,Pós-graduação
+,"MBA Corporativo em formação avançada de consultores e executivos marketing, propaganda e publicidade.",Presencial,Outro,440,249,FALSE,semestre,3,Estratego,Unidade Belém,TRUE,TRUE,Pós-graduação
