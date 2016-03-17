@@ -1,0 +1,13 @@
+id,name,kind,shift,full_price,offered_price,exclusive,period_kind,max_periods,university_id,campus_id,enabled,enabled_for_seo,level
+,Pós Graduação em Psicopedagogia Institucional,EAD,Outro,199.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Pós Graduação em Gestão Escolar e Políticas Educacionais,EAD,Outro,199.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Pós Graduação em Gestão da Educação e Politicas Públicas Educacionais,EAD,Outro,199.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Pós Graduação em Docencia Para o Ensino Superior,EAD,Outro,250.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Mba em Planejamento Estratégico e Análise de Negócios,EAD,Outro,319.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Mba em Gestão De Projetos,EAD,Outro,319.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Mba em Gestão e Desenvolvimento de Pessoas e Talentos,EAD,Outro,319.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Mba em Gestão Financeira e Controladoria,EAD,Outro,319.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Mba em Logística,EAD,Outro,319.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Mba Executivo em Processos Gerenciais,EAD,Outro,319.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Mba em Engenharia De Produção e Gestão da Qualidade,EAD,Outro,319.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação
+,Pós Graduação em Educação Especial e Inclusiva,EAD,Outro,199.00,50%,FALSE,semestre,2,FACEAR,FACEAR CURITIBA,TRUE,TRUE,Pós-graduação

@@ -1,0 +1,20 @@
+** Na hora de colocar de IN PROGRESS para FEEDBACK, seguir os padrões para avisar os auditores **
+
+1. Tabela ainda nao foi Upada
+2. Criado Campus Unidade Belem no admin
+3. No admin, ALTERAR (ou seja, ainda nao estou realizando as mudancas efetivas) os seguintes campos:
+
+A. Em CONFIGURACOES GERAIS:
+- Habiiitar como publicada
+- Habilitar como parceiro
+- Alterar texto de isenção para:
+<h5>Sua contribuição vale pela sua primeira mensalidade. </h5>
+ h5>Assim, sua primeira mensalidade sai <span class="highlight">GRÁTIS!</span> Por conta do Quero Bolsa.</h5>
+
+B. Em INFORMACOES PARA OS CURSOS PUBLICADOS
+- Adicionar Beneficio adicional para todos os cursos: * Isenção da matrícula.
+- Atualizar as OBS com o criado no drive
+
+C. EM CUPOM:
+- Associacao no contrato = QUERO BOLSA
+- Entrega do cupom = Matricula
