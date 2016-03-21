@@ -1,0 +1,3 @@
+id,name,kind,shift,full_price,exemption,total_seats,visible_seats,exclusive,exclusivity_revision,period_kind,max_periods,university_id,campus_id,enabled,enabled_for_seo,level
+,Admnistração,Presencial,Noite,952.28,FALSE,10,0,TRUE,,semestre,10,FTC,Jequié,TRUE,TRUE,Bacharelado
+,Enfermagem,Presencial,Noite,691.6,FALSE,10,0,TRUE,,semestre,8,FTC,Jequié,TRUE,TRUE,Bacharelado

@@ -34,7 +34,7 @@ end
 
 #Retorna nil se o campo estiver em branco. O tratamento deve ser realizado manualmente
 def getValue(value)
-    return if value==nil 
+    return nil if value==nil 
     return value
 end
 
@@ -51,7 +51,7 @@ par.each do |par|
         mbdLine['kind'] = getValue(par['tipo']).strip
         mbdLine['shift'] = getValue(par['turno']).strip
         mbdLine['full_price'] = getValue(par['preço cheio'])
-        mbdLine['offered_price'] = getOfferedPrice(mbdLine['full_price'],par['preço com desconto']) if getValue(par['preço cheio'])!=nil
+        mbdLine['offered_price'] = getOfferedPrice(mbdLine['full_price'],par['preço com desconto']) if (getValue(par['preço cheio'])!=nil&&getValue(par['preço com desconto'])!=nil)
         mbdLine['exemption'] = getValue(par['isenção (colocar "t" ou "f") ']).upcase==('T')?'TRUE':'FALSE' if getValue(par['isenção (colocar "t" ou "f") '])!=nil
         mbdLine['total_seats'] = getValue(par['vagas'])
         mbdLine['visible_seats'] = 0
