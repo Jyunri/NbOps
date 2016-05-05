@@ -1,3 +1,4 @@
-# NbOPS
+# SiteOps
 
-Arquivos feitos por/para iniciantes no SiteOps :P
+SiteOps Repo for file and script sharing.
+
