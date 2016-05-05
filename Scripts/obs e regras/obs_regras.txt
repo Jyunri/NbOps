@@ -3,45 +3,25 @@
 #### **Quem pode ter a bolsa?**
 * &bull; Alunos Ingressantes.
 
-* &bull; Alunos matriculados na TOTESTANDO:D, desde que tenha cursado até metade do curso.
+* &bull; Alunos matriculados na TOTESTANDO:D%%, desde que tenha cursado até metade do curso.
 
-* &bull; Aluno matriculado em outra faculdade ou de transferência externa, desde que tenha cursado até metade do curso na faculdade de origem.
+* &bull; Aluno matriculado em outra faculdade ou de transferência externa%%, desde que tenha cursado até metade do curso na faculdade de origem.
 
-* &bull; Aluno trancado/desistente na TOTESTANDO:D há no mínimo 3 meses há no mínimo 6 meses há no máximo 1 ano há no máximo 2 anos.
-
-* &bull; <OUTRO_R_7> TESTE.
-
-* &bull; .
-
-* &bull; <OUTRO_R_4> TESTE.
+* &bull; Aluno trancado/desistente na TOTESTANDO:D%% há no mínimo 3 meses%% há no mínimo 6 meses%% há no máximo 1 ano%% há no máximo 2 anos.
 
 * &bull; Alunos cuja 1˚ graduação tenha sido na TOTESTANDO:D.
 
-* &bull; <OUTRO_R_9> TESTE.
-
-* &bull; Alunos cuja 1ª graduação tenha sido em outra faculdade. Onde cada caso será avaliado internamente pela TOTESTANDO:D.
-
-* &bull; .
-
-* &bull; <OUTRO_R_8> TESTE.
+* &bull; Alunos cuja 1ª graduação tenha sido em outra faculdade%%. Onde cada caso será avaliado internamente pela TOTESTANDO:D.
 
 
 #### **Quem pode perder a bolsa?**
-* &bull; O desconto é válido para pagamentos feitos até o último dia corrido do mês.
-
-* &bull; .
-
-* &bull; <OUTRO_R_13> TESTE.
+* &bull; O desconto é válido para pagamentos feitos até o último dia%% corrido do mês.
 
 * &bull; A bolsa será cancelada definitivamente no caso de:
 *    &bull; Rendimento acadêmico insuficiente.
 
 * &bull; A bolsa será cancelada definitivamente no caso de:
 *    &bull; Trancamento de matrícula.
-
-* &bull; .
-
-* &bull; <OUTRO_R_16> TESTE.
 
 
 #### **Quais são as características da bolsa?**
@@ -51,9 +31,7 @@
 
 * &bull; O desconto do Quero Bolsa não será cumulativo com outras bolsas/descontos.
 
-* &bull; .
-
-* &bull; <OUTRO_R_17> TESTE.
+* &bull; O desconto do Quero Bolsa é válido para todas as mensalidades de cada semestre.
 
 * &bull; O desconto do Quero Bolsa é válido para todas as mensalidades de cada semestre exceto a primeira.
 
@@ -64,10 +42,6 @@
 * &bull; O aluno deverá entregar o comprovante de pré-matrícula do Quero Bolsa nas rematrículas.
 
 * &bull; O aluno deverá entregar o comprovante de pré-matrícula do Quero Bolsa no vestibular.
-
-* &bull; .
-
-* &bull; <OUTRO_R_24> TESTE.
 
 * &bull; A entrega do cupom deve ser feita no setor TESTE da faculdade.
 

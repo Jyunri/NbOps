@@ -1,87 +1,77 @@
 Pergunta,Encontrada,Correspondência,Dependente
-4,Ingressantes (padrão),Alunos Ingressantes,0
-4,"Já matriculados na IES (caso marque esta alternativa, responda também à pergunta 5)",Alunos matriculados na <IES>,5
-4,"Matriculados em outra IES, também conhecidos como ""transferência externa"" (caso marque esta alternativa, responda também à pergunta 6)",Aluno matriculado em outra faculdade ou de transferência externa,6
-4,"Trancados/Desistentes na IES (caso marque esta alternativa, responda também à pergunta 7)",Aluno trancado/desistente na <IES>,7
+4,Ingressantes,Alunos Ingressantes,0
+4,Já matriculados,Alunos matriculados na <IES>,5
+4,Matriculados em outra IES,Aluno matriculado em outra faculdade ou de transferência externa,6
+4,Trancados/Desistentes,Aluno trancado/desistente na <IES>,7
 ,,,
-5,todos,,0
-5,"qualquer um, desde que tenha cursado até metade do curso",", desde que tenha cursado até metade do curso",0
+5,qualquer um,", desde que tenha cursado até metade do curso",0
 ,,,
-6,todos,,0
-6,somente os que tenham cursado até metade do curso na IES de origem,", desde que tenha cursado até metade do curso na faculdade de origem",0
-6,cada caso será avaliado internamente pela IES,. Cada caso será avaliado internamente pela <IES>,0
+6,metade do curso,", desde que tenha cursado até metade do curso na faculdade de origem",0
+6,avaliado internamente,. Cada caso será avaliado internamente pela <IES>,0
 ,,,
-7,qualquer um,,0
-7,somente os trancados/desistentes há no mínimo 3 meses, há no mínimo 3 meses,0
-7,somente os trancados/desitentes há no mínimo 6 meses, há no mínimo 6 meses,0
-7,somente os trancados/desistentes há no máximo 1 ano, há no máximo 1 ano,0
-7,somente os trancados/desistentes há no máximo 2 anos, há no máximo 2 anos,0
+7,mínimo 3, há no mínimo 3 meses,0
+7,mínimo 6, há no mínimo 6 meses,0
+7,máximo 1, há no máximo 1 ano,0
+7,máximo 2, há no máximo 2 anos,0
 ,,,
-8,nenhum,,0
-8,"alunos cuja 1a graduação foi na mesma IES (caso marque esta opção, responda a pergunta 9)",Alunos cuja 1˚ graduação tenha sido na <IES>,9
-8,"alunos cuja 1a graduação foi em outra IES (caso marque esta opção, responda a pergunta 10)",Alunos cuja 1ª graduação tenha sido em outra faculdade,10
+8,mesma IES,Alunos cuja 1˚ graduação tenha sido na <IES>,9
+8,outra IES,Alunos cuja 1ª graduação tenha sido em outra faculdade,10
 ,,,
-9,todos,,0
-9,cada caso será avaliado internamente pela IES,. Onde cada caso será avaliado internamente pela <IES>,0
+9,avaliado internamente,. Onde cada caso será avaliado internamente pela <IES>,0
 ,,,
-10,todos,,0
-10,cada caso será avaliado internamente pela IES,. Onde cada caso será avaliado internamente pela <IES>,0
+10,avaliado internamente,. Onde cada caso será avaliado internamente pela <IES>,0
 ,,,
 11,1,O desconto é válido para pagamentos feitos até o 1º dia,12
 11,5,O desconto é válido para pagamentos feitos até o 5º dia,12
 11,10,O desconto é válido para pagamentos feitos até o 10º dia,12
 11,15,O desconto é válido para pagamentos feitos até o 15º dia,12
-11,Último do mês anterior,O desconto é válido para pagamentos feitos até o último dia,12
+11,Último,O desconto é válido para pagamentos feitos até o último dia,12
 ,,,
 12,Útil, útil do mês,0
 12,Corrido, corrido do mês,0
+12,último, anterior,0
 ,,,
-,,,
-13,na próxima mensalidade,"A bolsa não será válida nos meses em que o aluno estiver inadimplente com a <IES>:
+13,mensalidade,"A bolsa não será válida nos meses em que o aluno estiver inadimplente com a <IES>:
 *    <BULL> Ao regularizar a sua situação financeira, a bolsa retornará a partir do mês seguinte",0
-13,no próximo semestre,"A bolsa não será válida nos meses em que o aluno estiver inadimplente com a <IES>:
+13,semestre,"A bolsa não será válida nos meses em que o aluno estiver inadimplente com a <IES>:
 *    <BULL> Ao regularizar a sua situação financeira, a bolsa retornará a partir do semestre seguinte",0
 ,,,
-14,Não trabalhamos com perda definitiva de desconto por motivos de inadimplência,,0
-14,Inadimplência de N parcelas consecutivas (coloque o valor de N na pergunta 15),"A bolsa será cancelada definitivamente no caso de:
+14,parcelas consecutivas,"A bolsa será cancelada definitivamente no caso de:
 *    <BULL> Inadimplência consecutiva de",15
-14,Inadimplência de N parcelas não-consecutivas dentro do mesmo semestre (coloque o valor de N na pergunta 15),"A bolsa será cancelada definitivamente no caso de:
+14,não-consecutivas,"A bolsa será cancelada definitivamente no caso de:
 *    <BULL> Inadimplência não-consecutiva dentro do mesmo semestre de",15
 ,,,
-15,Não há,,0
 15,2, 2 parcelas,0
 15,3, 3 parcelas,0
 15,4, 4 parcelas,0
 ,,,
-16,O aluno com rendimento insuficiente (por nota média mínima) no semestre,"A bolsa será cancelada definitivamente no caso de:
+16,rendimento,"A bolsa será cancelada definitivamente no caso de:
 *    <BULL> Rendimento acadêmico insuficiente",0
-16,Trancamento de matrícula,"A bolsa será cancelada definitivamente no caso de:
+16,Trancamento,"A bolsa será cancelada definitivamente no caso de:
 *    <BULL> Trancamento de matrícula",0
 ,,,
-17,O desconto do Quero Bolsa pode ser cumulativo com o FIES,O desconto do Quero Bolsa pode ser cumulativo com o **FIES**,0
-17,O desconto do Quero Bolsa pode ser cumulativo com o ProUni,O desconto do Quero Bolsa pode ser cumulativo com o **ProUni**,0
-17,Não será cumulativo com outras bolsas/descontos não explicitadas nas opções anteriores,O desconto do Quero Bolsa não será cumulativo com outras bolsas/descontos,0
+17,FIES,O desconto do Quero Bolsa pode ser cumulativo com o **FIES**,0
+17,ProUni,O desconto do Quero Bolsa pode ser cumulativo com o **ProUni**,0
+17,Não será,O desconto do Quero Bolsa não será cumulativo com outras bolsas/descontos,0
 ,,,
-18,Não temos desconto de pontualidade,,0
-18,Temos desconto de pontualidade e a bolsa do Quero Bolsa É cumulativa com ele,O desconto de pontualidade é cumulativo com o desconto do Quero bolsa,19
-18,Temos desconto de pontualidade mas a bolsa do Quero Bolsa NÃO É cumulativa com ele,O desconto de pontualidade não é cumulativo com o desconto do Quero bolsa,19
+18,pontualidade e ,O desconto de pontualidade é cumulativo com o desconto do Quero bolsa,19
+18,pontualidade mas,O desconto de pontualidade não é cumulativo com o desconto do Quero bolsa,19
 ,,,
 19,1,. Com vencimento no 1º dia do mês,20
 19,5,. Com vencimento no 5º dia do mês,20
 19,10,. Com vencimento no 10º dia do mês,20
-19,último dia do mês anterior,. Com vencimento no último dia do mês anterior,20
-19,dia 25 do mês anterior,. Com vencimento no dia 25 do mês anterior,20
+19,último,. Com vencimento no último dia do mês anterior,20
+19,dia 25,. Com vencimento no dia 25 do mês anterior,20
 ,,,
 20,Útil, (útil),0
 20,Corrido, (corrido),0
 ,,,
-22,Sim e o desconto do Quero Bolsa se aplica a essa taxa também,O desconto do Quero Bolsa se aplica às taxas de matrícula e rematrícula,0
-22,"Sim, mas o desconto do Quero Bolsa não é válido para essa taxa",O desconto do Quero Bolsa não se aplica às taxas de matrícula e rematrícula,0
-22,Não cobramos taxa adicional de matrícula/rematrícula,,0
+22,Sim e,O desconto do Quero Bolsa se aplica às taxas de matrícula e rematrícula,0
+22,"Sim, mas",O desconto do Quero Bolsa não se aplica às taxas de matrícula e rematrícula,0
 ,,,
 23,Todas,O desconto do Quero Bolsa é válido para todas as mensalidades de cada semestre,0
-23,Todas exceto a 1ª (primeira) mensalidade,O desconto do Quero Bolsa é válido para todas as mensalidades de cada semestre exceto a primeira,0
+23,exceto a 1,O desconto do Quero Bolsa é válido para todas as mensalidades de cada semestre exceto a primeira,0
 ,,,
 24,Matrícula,O aluno deverá entregar o comprovante de pré-matrícula do Quero Bolsa na matrícula,0
 24,Rematrículas,O aluno deverá entregar o comprovante de pré-matrícula do Quero Bolsa nas rematrículas,0
-24,Dia do vestibular,O aluno deverá entregar o comprovante de pré-matrícula do Quero Bolsa no vestibular,0
+24,vestibular,O aluno deverá entregar o comprovante de pré-matrícula do Quero Bolsa no vestibular,0
