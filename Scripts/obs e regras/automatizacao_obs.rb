@@ -53,7 +53,7 @@ def correspondencia_resps(respostas_originais, n_resp)
 					resposta_dependente = respostas_originais[dp.to_i].to_s
 					$arquivo_correspondencias.map { |linha_dp|
 						if(linha_dp[0].to_i == dp.to_i) && (resposta_dependente.include? linha_dp[1].to_s)
-							final += "%%"+linha_dp[2].to_s
+							final += ""+linha_dp[2].to_s
 						end
 					}
 				end
