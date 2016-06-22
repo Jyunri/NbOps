@@ -1,14 +1,5 @@
 
-
-
-
-
-
-
-
-
-
-# TENDO DUAS STRINGS COM O COMEÇO IGAUL, ESTA FUNÇÃO RETORNA A DIFERENÇA DELAS (O FINAL DIFERENTE)
+# TENDO DUAS STRINGS COM O COMEÇO IGUAL, ESTA FUNÇÃO RETORNA A DIFERENÇA DELAS (O FINAL DIFERENTE)
 def diff(stra, strb)
 	cont = 0
 	str_resp = ""
@@ -28,15 +19,3 @@ str1 = "* &bull; A bolsa será cancelada definitivamente no caso de:
 *    &bull; Trancamento de matrícula."
 
 puts diff(str1, str2)
-
-
-
-
-
-
-
-
-
-
-
-
